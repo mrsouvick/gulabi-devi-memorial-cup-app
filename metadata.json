@@ -1,0 +1,6 @@
+{
+  "name": "Gulabi Devi Cup",
+  "description": "Official mobile application for the Gulabi Devi Memorial Cup 14th Edition inter-college football tournament organized by BBIT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
